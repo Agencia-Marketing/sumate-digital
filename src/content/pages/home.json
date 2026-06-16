@@ -20,8 +20,7 @@
     { "icon": "ads_click", "title": "Campañas de Ads", "desc": "Publicidad de precisión en Google y Meta para captar clientes listos para comprar ahora mismo.", "href": "/servicios/campanas-publicitarias" },
     { "icon": "movie", "title": "Videomarketing", "desc": "Piezas audiovisuales estratégicas que amplifican tu mensaje y disparan el engagement.", "href": "/servicios/videomarketing" },
     { "icon": "filter_alt", "title": "Embudos de Venta", "desc": "Sistemas de conversión automatizados que guían a tus prospectos hasta la compra con mínima fricción.", "href": "/servicios/embudos-venta" },
-    { "icon": "campaign", "title": "Creadores UGC", "desc": "Conectamos tu marca con creadores reales para campañas auténticas que aumentan conversiones.", "href": "/servicios/creadores-ugc" },
-    { "icon": "history_edu", "title": "Creación de Contenido", "desc": "Contenido estratégico que posiciona tu marca como referente y atrae tráfico cualificado de forma constante.", "href": "/servicios/creacion-contenido" }
+    { "icon": "campaign", "title": "Creadores UGC", "desc": "Conectamos tu marca con creadores reales para campañas auténticas que aumentan conversiones.", "href": "/servicios/creadores-ugc" }
   ],
   "reasonsTag": "Por qué elegirnos",
   "reasonsHeading": "Por qué confiar en Súmate Digital",

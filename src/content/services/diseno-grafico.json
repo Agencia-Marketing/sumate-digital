@@ -14,9 +14,9 @@
     { "icon": "print", "title": "Diseño impreso", "desc": "Tarjetas, folletos, catálogos y señalética con la misma calidad premium de tu identidad digital." }
   ],
   "plans": [
-    { "name": "Brand Kit", "sub": "Identidad básica", "price": "$3.5k–$6k", "featured": false, "features": ["Logo + variantes", "Paleta de colores", "Tipografías", "Manual de marca", "Formatos web y print"] },
-    { "name": "Brand Pro", "sub": "Sistema completo", "price": "$7k–$12k", "featured": true, "features": ["Todo de Brand Kit", "20 piezas digitales", "Templates editables", "Guía de voz y tono", "Revisiones ilimitadas"] },
-    { "name": "Brand Full", "sub": "Ecosistema total", "price": "$14k–$22k", "featured": false, "features": ["Todo de Brand Pro", "Pack de redes 3 meses", "Diseño web aplicado", "Video intro/logo", "Soporte mensual"] }
+    { "name": "Naming & Logo", "sub": "Identidad de Marca", "price": "A cotizar", "featured": false, "features": ["Propuesta de nombre", "2 conceptos de logo", "Manual de identidad básico", "Formatos PNG/SVG/PDF"] },
+    { "name": "Menú Digital Pyme", "sub": "Para Restaurantes y Cafés", "price": "A cotizar", "featured": true, "features": ["Hasta 20 platos", "Diseño responsive", "QR personalizado", "Actualización gratuita 6 meses"] },
+    { "name": "Menú Digital Empresarial", "sub": "Para Cadenas y Franquicias", "price": "A cotizar", "featured": false, "features": ["Diseño de menú digital", "Descripción y precios", "Fotografías de los platillos", "Diseño de Tent card con el Código QR", "Vinculación de redes sociales"] }
   ],
   "ctaHeading": "¿Tu marca merece mejor imagen?",
   "ctaText": "Cuéntanos tu visión y te mostramos cómo transformarla en un sistema visual que impacte.",

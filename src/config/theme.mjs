@@ -16,8 +16,8 @@ export const colors = {
   'text-secondary': '#97A1C0',
   'text-dim':       '#586089',
   'grad-indigo':    '#123D89',
-  'grad-violet':    '#2A3A78',
-  'grad-pink':      '#FCA311',
+  'grad-violet':    '#164F9D',
+  'grad-pink':      '#164F9D',
 };
 
 // --- Tipografías. Cambia las familias y el enlace de Google Fonts juntos.

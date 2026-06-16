@@ -14,9 +14,10 @@
     { "icon": "subtitles", "title": "Subtítulos y adaptación", "desc": "Versiones optimizadas para cada plataforma: 9:16, 1:1, 16:9 con subtítulos y colores de marca." }
   ],
   "plans": [
-    { "name": "Starter", "sub": "1 vídeo/mes", "price": "$2.2k/mes", "featured": false, "features": ["1 vídeo profesional", "Hasta 2 min", "Guión incluido", "Música con licencia", "3 revisiones"] },
-    { "name": "Creator", "sub": "4 vídeos/mes", "price": "$5.8k/mes", "featured": true, "features": ["4 vídeos/mes", "Todos los formatos", "Reels/Shorts incluidos", "Guiones + edición", "Revisiones ilimitadas", "Entrega en 5d"] },
-    { "name": "Studio", "sub": "Producción total", "price": "$12k+/mes", "featured": false, "features": ["Vídeos ilimitados", "Equipo dedicado", "Animaciones 2D/3D", "Publicación en canales", "Dirección creativa", "Estrategia mensual"] }
+    { "name": "Video Básico", "sub": "Edición de video con transiciones simples y textos 2D, música. Solicita ejemplos a tu asesor.", "price": "A cotizar", "featured": false, "features": ["60 segundos", "30 segundos", "Menos de 30 segundos"] },
+    { "name": "Video Inter", "sub": "Edición de video con transiciones más elaboradas y uso de mockups. Solicita ejemplos a tu asesor.", "price": "A cotizar", "featured": false, "features": ["60 segundos", "30 segundos", "Menos de 30 segundos"] },
+    { "name": "Video Completo", "sub": "Edición de video con transiciones más elaboradas, uso de mockups y animaciones. Solicita ejemplos a tu asesor.", "price": "A cotizar", "featured": false, "features": ["60 segundos", "30 segundos", "Menos de 30 segundos"] },
+    { "name": "Narración de voz en off", "sub": "Te ayudamos a crear el guion y a elegir la voz adecuada para darle vida a tu proyecto.", "price": "A cotizar", "featured": false, "features": ["60 segundos", "30 segundos", "Menos de 30 segundos"], "note": "No incluida en el servicio de Video marketing; se contrata por separado." }
   ],
   "ctaHeading": "¿Listo para crear contenido que impacte?",
   "ctaText": "Hablemos sobre tu visión y te preparamos una propuesta de producción a medida.",

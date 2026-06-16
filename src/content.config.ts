@@ -19,6 +19,7 @@ const services = defineCollection({
     plans: z.array(z.object({
       name: z.string(), sub: z.string(), price: z.string(), featured: z.boolean(),
       features: z.array(z.string()),
+      note: z.string().optional(),
     })),
     ctaHeading: z.string(),
     ctaText: z.string(),

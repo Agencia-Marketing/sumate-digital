@@ -9,14 +9,16 @@
   "image": "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?w=600&q=80",
   "imageAlt": "Gestión de Redes Sociales Súmate Digital",
   "features": [
-    { "icon": "calendar_month", "title": "Planificación editorial", "desc": "Estrategia de contenido mensual alineada con tus objetivos de negocio y el calendario de tu industria." },
-    { "icon": "bar_chart", "title": "Análisis y reportes", "desc": "Métricas semanales y mensuales con insights accionables para mejorar continuamente el rendimiento." },
-    { "icon": "forum", "title": "Community management", "desc": "Gestión activa de comentarios, mensajes y conversaciones para construir una comunidad fiel a tu marca." }
+    { "icon": "forum", "title": "Community manager", "desc": "Crea la parrilla de contenidos con los copies de cada publicación, realiza los diseños, publica y responde mensajes y comentarios de 9:00 am a 5:00 pm (GMT-6)." },
+    { "icon": "ads_click", "title": "Trafficker", "desc": "Experto en pautas publicitarias: prepara las propuestas de campaña de inversión (2 incluidas) y entrega un reporte mensual de crecimiento. Campañas adicionales con costo extra." },
+    { "icon": "palette", "title": "Diseñador gráfico", "desc": "Proyecta la línea gráfica de tu negocio con diseños y videos impactantes, y programa y publica todos tus diseños." }
   ],
   "plans": [
-    { "name": "Básico", "sub": "2 redes sociales", "price": "$1.8k/mes", "featured": false, "features": ["12 posts/mes", "2 redes incluidas", "Diseño de piezas", "Reporte mensual", "Respuesta de comentarios"] },
-    { "name": "Growth", "sub": "4 redes sociales", "price": "$3.2k/mes", "featured": true, "features": ["24 posts/mes", "4 redes incluidas", "Stories diarias", "Reels/TikToks (4/mes)", "Community 5d/sem", "Reporte semanal"] },
-    { "name": "Premium", "sub": "Ecosistema total", "price": "$5.5k/mes", "featured": false, "features": ["Posts ilimitados", "Todas las redes", "Reels diarios", "Stories diarias", "Community 7d/sem", "Estrategia mensual", "Ads incluidos"] }
+    { "name": "Plan Esencial", "sub": "1 red social", "price": "A cotizar", "featured": false, "features": ["1 red social", "15 diseños por red (hasta 6 videos)", "Community manager 9–5 (GMT-6)", "Trafficker · 2 propuestas de campaña", "Diseñador gráfico dedicado", "Reporte mensual de crecimiento"] },
+    { "name": "Plan Indispensable", "sub": "2 redes sociales", "price": "A cotizar", "featured": false, "features": ["2 redes sociales", "15 diseños por red (hasta 6 videos)", "Community manager 9–5 (GMT-6)", "Trafficker · 2 propuestas de campaña", "Diseñador gráfico dedicado", "Reporte mensual de crecimiento"] },
+    { "name": "Plan Todo en uno", "sub": "3 redes sociales", "price": "A cotizar", "featured": true, "features": ["3 redes sociales", "15 diseños por red (hasta 6 videos)", "Community manager 9–5 (GMT-6)", "Trafficker · 2 propuestas de campaña", "Diseñador gráfico dedicado", "Reporte mensual de crecimiento"] },
+    { "name": "Plan Profesional", "sub": "4 redes sociales", "price": "A cotizar", "featured": false, "features": ["4 redes sociales", "15 diseños por red (hasta 6 videos)", "Community manager 9–5 (GMT-6)", "Trafficker · 2 propuestas de campaña", "Diseñador gráfico dedicado", "Reporte mensual de crecimiento"] },
+    { "name": "Plan Omnipresente", "sub": "6 redes sociales", "price": "A cotizar", "featured": false, "features": ["6 redes sociales", "15 diseños por red (hasta 6 videos)", "Community manager 9–5 (GMT-6)", "Trafficker · 2 propuestas de campaña", "Diseñador gráfico dedicado", "Reporte mensual de crecimiento"] }
   ],
   "ctaHeading": "¿Tus redes necesitan más impacto?",
   "ctaText": "Diseñamos una estrategia personalizada para convertir tu comunidad en clientes reales.",
