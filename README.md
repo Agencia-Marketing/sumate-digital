@@ -51,19 +51,16 @@ export const logo = { image: '', icon: 'bolt', alt: 'Logo' };
 
 > Los derivados del acento (rgb, glow, dim, borde glass) se calculan solos a partir de `accent`.
 
-## Gestión de contenido (Decap CMS)
+## Gestión de contenido (edición manual)
 
-Todo el contenido es editable desde **`/admin`** sin tocar código. Vive como JSON en `src/content/` y Astro lo lee en build.
+Todo el contenido vive como JSON en `src/content/` y Astro lo lee en build. Se edita **directamente en los archivos** (no hay CMS); tras guardar, `npm run dev` recarga y `git push` publica.
 
 - `src/content/settings/site.json` — marca, nav, footer, contacto
 - `src/content/pages/{home,about,contact}.json` — páginas comunes
 - `src/content/services/*.json` — 6 servicios uniformes (features + planes), vía ruta dinámica `[slug]`
 - `src/content/services-custom/*.json` — 3 servicios con diseño propio (agentes-ia: comparativa · embudos-venta: plan único · creadores-ugc: stats)
 
-**Editar en local:** `npm run dev` + `npm run cms` → `http://localhost:4321/admin/index.html`.
-**En producción:** desplegar `oauth-worker/` y poner su URL en `public/admin/config.yml` (ver [`oauth-worker/README.md`](oauth-worker/README.md)).
-
-> El resaltado en gradiente de los titulares se controla con el campo **"Palabra resaltada"** (debe coincidir con una subcadena exacta del titular).
+> El resaltado en gradiente de los titulares se controla con el campo **"highlight"** correspondiente (debe coincidir con una subcadena exacta del titular).
 
 ## Crear un sitio nuevo
 
@@ -71,9 +68,8 @@ Todo el contenido es editable desde **`/admin`** sin tocar código. Vive como JS
 
 1. Duplica el repo.
 2. Marca → edita `src/config/theme.mjs` (colores, fuentes + `googleHref`, logo).
-3. Contenido → edita en `/admin` o los JSON de `src/content/`.
-4. CMS → ajusta `backend.repo` y `base_url` en `public/admin/config.yml`.
-5. Deploy en Cloudflare Pages (`npm run build`, output `dist`).
+3. Contenido → edita los JSON de `src/content/`.
+4. Deploy en Cloudflare Pages (`npm run build`, output `dist`).
 
 ## Servicios (9 páginas)
 
