@@ -1,27 +1,77 @@
 {
-  "title": "Súmate Digital | Agencia Digital de Alto Rendimiento",
-  "heroTag": "Agencia Digital Premium",
-  "heroHeading": "Lleva tu marca al siguiente nivel de impacto digital",
-  "heroHighlight": "siguiente nivel",
-  "heroParagraph": "En Súmate Digital combinamos tecnología de vanguardia con estrategia creativa para transformar tu presencia digital en resultados medibles y sostenibles.",
-  "heroCtaPrimary": { "label": "Explorar servicios", "href": "#servicios" },
-  "heroCtaSecondary": { "label": "Háblanos", "href": "/contacto" },
+  "title": "Súmate Digital | Agencia de Marketing, Diseño y Automatización",
+  "heroTag": "Agencia de Marketing Digital",
+  "heroHeading": "Hacemos crecer tu negocio con marketing, diseño y automatización",
+  "heroHighlight": "crecer tu negocio",
+  "heroParagraph": "Estrategia, contenido, publicidad y tecnología en un solo equipo: atraemos clientes, fortalecemos tu marca y automatizamos tu operación para que vendas más.",
+  "heroCtaPrimary": { "label": "Agendar asesoría gratuita", "href": "/contacto" },
+  "heroCtaSecondary": { "label": "Ver servicios", "href": "#servicios" },
   "heroImage": "/Que-equipo-de-oficina-debo-comprar-para-mi-empresa.webp",
-  "heroImageAlt": "Equipo Súmate Digital trabajando en estrategia digital",
-  "servicesTag": "Servicios",
-  "servicesHeading": "Soluciones que transforman tu negocio",
-  "servicesHighlight": "transforman",
-  "servicesSubtitle": "Cada servicio está diseñado para atacar un punto clave de tu crecimiento digital con precisión y eficiencia.",
-  "services": [
-    { "icon": "code", "title": "Desarrollo Web", "desc": "Plataformas digitales de alto rendimiento que convierten visitantes en clientes desde el primer clic.", "href": "/servicios/desarrollo-web" },
-    { "icon": "smart_toy", "title": "Agentes de IA", "desc": "Automatiza atención al cliente y cualificación de leads con inteligencia activa las 24 horas.", "href": "/servicios/agentes-ia" },
-    { "icon": "palette", "title": "Diseño Gráfico", "desc": "Identidades visuales que comunican autoridad y generan reconocimiento inmediato en cada punto de contacto.", "href": "/servicios/diseno-grafico" },
-    { "icon": "diversity_3", "title": "Gestión de Redes", "desc": "Estrategia, contenido y comunidad: convertimos tus redes en un canal real de ventas y fidelización.", "href": "/servicios/redes-sociales" },
-    { "icon": "ads_click", "title": "Campañas de Ads", "desc": "Publicidad de precisión en Google y Meta para captar clientes listos para comprar ahora mismo.", "href": "/servicios/campanas-publicitarias" },
-    { "icon": "movie", "title": "Videomarketing", "desc": "Piezas audiovisuales estratégicas que amplifican tu mensaje y disparan el engagement.", "href": "/servicios/videomarketing" },
-    { "icon": "filter_alt", "title": "Embudos de Venta", "desc": "Sistemas de conversión automatizados que guían a tus prospectos hasta la compra con mínima fricción.", "href": "/servicios/embudos-venta" },
-    { "icon": "campaign", "title": "Creadores UGC", "desc": "Conectamos tu marca con creadores reales para campañas auténticas que aumentan conversiones.", "href": "/servicios/creadores-ugc" }
+  "heroImageAlt": "Equipo de Súmate Digital trabajando en estrategia digital",
+
+  "valuePropTag": "Propuesta de valor",
+  "valuePropHeading": "Claridad desde el primer minuto",
+  "valuePropHighlight": "primer minuto",
+  "valueProp": [
+    { "icon": "target", "title": "Qué hacemos", "desc": "Marketing digital, diseño web, branding y automatización con IA integrados en una sola estrategia de crecimiento." },
+    { "icon": "groups", "title": "A quién ayudamos", "desc": "Pymes, emprendedores y negocios locales que quieren atraer más clientes y profesionalizar su presencia digital." },
+    { "icon": "trending_up", "title": "Qué resultados entregamos", "desc": "Más prospectos y ventas, una marca reconocible y procesos automatizados que te liberan tiempo." }
   ],
+
+  "servicesTag": "Servicios",
+  "servicesHeading": "Soluciones organizadas por área",
+  "servicesHighlight": "por área",
+  "servicesSubtitle": "Todo lo que tu negocio necesita para crecer en digital, agrupado en cuatro grandes áreas.",
+  "serviceCategories": [
+    {
+      "title": "Marketing Digital",
+      "icon": "campaign",
+      "desc": "Campañas, redes y embudos para atraer y convertir clientes.",
+      "services": [
+        { "title": "Campañas de Ads", "href": "/servicios/campanas-publicitarias" },
+        { "title": "Gestión de Redes", "href": "/servicios/redes-sociales" },
+        { "title": "Embudos de Venta", "href": "/servicios/embudos-venta" }
+      ]
+    },
+    {
+      "title": "Diseño Web",
+      "icon": "code",
+      "desc": "Sitios y plataformas rápidas, optimizadas para convertir.",
+      "services": [
+        { "title": "Desarrollo Web", "href": "/servicios/desarrollo-web" }
+      ]
+    },
+    {
+      "title": "Branding y Creatividad",
+      "icon": "palette",
+      "desc": "Identidad, diseño, video y contenido que conecta con tu audiencia.",
+      "services": [
+        { "title": "Diseño Gráfico", "href": "/servicios/diseno-grafico" },
+        { "title": "Videomarketing", "href": "/servicios/videomarketing" },
+        { "title": "Creadores UGC", "href": "/servicios/creadores-ugc" }
+      ]
+    },
+    {
+      "title": "Automatización e IA",
+      "icon": "smart_toy",
+      "desc": "Agentes y flujos que automatizan ventas y atención 24/7.",
+      "services": [
+        { "title": "Agentes de IA", "href": "/servicios/agentes-ia" }
+      ]
+    }
+  ],
+
+  "methodologyTag": "Metodología",
+  "methodologyHeading": "Cómo trabajamos contigo",
+  "methodologyHighlight": "trabajamos contigo",
+  "methodologySubtitle": "Un proceso claro de principio a fin, con acompañamiento en cada etapa.",
+  "methodology": [
+    { "num": "01", "icon": "search", "title": "Análisis y diagnóstico", "desc": "Estudiamos tu negocio, tu mercado y tu cliente ideal para detectar oportunidades reales." },
+    { "num": "02", "icon": "lightbulb", "title": "Estrategia a medida", "desc": "Diseñamos un plan accionable alineado a tus objetivos y tu presupuesto." },
+    { "num": "03", "icon": "rocket_launch", "title": "Implementación", "desc": "Ejecutamos con un equipo especializado: contenido, campañas, desarrollo y automatización." },
+    { "num": "04", "icon": "trending_up", "title": "Optimización y acompañamiento", "desc": "Medimos, optimizamos y escalamos lo que funciona, contigo en cada paso." }
+  ],
+
   "reasonsTag": "Por qué elegirnos",
   "reasonsHeading": "Por qué confiar en Súmate Digital",
   "reasonsHighlight": "Súmate Digital",
@@ -31,10 +81,29 @@
     { "icon": "lightbulb", "title": "Innovación Constante", "desc": "Incorporamos las últimas herramientas y tendencias — IA, automatización y datos — para mantener tu ventaja competitiva." },
     { "icon": "trending_up", "title": "Resultados Medibles", "desc": "Todo lo que hacemos está orientado a métricas reales: tráfico, leads, ventas y retorno sobre inversión." }
   ],
-  "ctaTag": "¿Listo para crecer?",
-  "ctaHeading": "Súmate Digital es tu mejor decisión estratégica",
-  "ctaHighlight": "decisión estratégica",
-  "ctaParagraph": "Nuestro enfoque personalizado y orientado a datos nos permite ejecutar estrategias que realmente mueven la aguja de tu negocio.",
-  "ctaButtonLabel": "Iniciar proyecto",
-  "ctaButtonIcon": "rocket_launch"
+
+  "socialProofTag": "Prueba social",
+  "socialProofHeading": "Resultados y testimonios reales",
+  "socialProofHighlight": "reales",
+  "socialProofSubtitle": "Lo que logran las empresas que ya crecen con nosotros.",
+  "results": [
+    { "value": "+150", "label": "Proyectos entregados" },
+    { "value": "x3", "label": "Retorno promedio en campañas" },
+    { "value": "98%", "label": "Clientes satisfechos" }
+  ],
+  "testimonials": [
+    { "quote": "Súmate Digital transformó nuestras redes y nuestro menú digital. En tres meses duplicamos las reservas y los pedidos por WhatsApp.", "name": "Laura Restrepo", "role": "Propietaria", "company": "Café La Esquina", "img": "/placeholder-foto.svg" },
+    { "quote": "Montaron nuestras campañas de Google y Meta con una estrategia clara. Por fin entendemos en qué invertimos y cuánto vendemos.", "name": "Andrés Morales", "role": "Gerente", "company": "TiendaOnline MX", "img": "/placeholder-foto.svg" }
+  ],
+  "cases": [
+    { "title": "Embudo de ventas para servicios", "desc": "Implementamos un embudo automatizado con landing, campañas y seguimiento que más que duplicó los prospectos calificados en 90 días.", "metric": "+120% leads" },
+    { "title": "Menú digital y redes para restaurante", "desc": "Diseño de menú digital con código QR, gestión de redes y contenido que duplicó los pedidos a domicilio del local.", "metric": "x2 pedidos" }
+  ],
+
+  "ctaTag": "Hablemos",
+  "ctaHeading": "Hablemos del crecimiento de tu negocio",
+  "ctaHighlight": "crecimiento de tu negocio",
+  "ctaParagraph": "Agenda una llamada gratuita y recibe recomendaciones adaptadas a las necesidades y objetivos de tu empresa.",
+  "ctaButtonLabel": "Agendar asesoría gratuita",
+  "ctaButtonIcon": "calendar_month"
 }

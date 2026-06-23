@@ -21,8 +21,8 @@
     { "name": "Instagram Ads", "sub": "Generamos una estrategia según el giro de tu negocio.", "price": "A cotizar", "featured": false, "features": ["Análisis inicial", "Segmentación de un mercado objetivo", "Formato de propuesta de campaña", "Lanzamiento y monitoreo de campaña", "Duración máxima de 30 días", "Un Agente asignado", "Reporte de resultados"], "note": "Inversión de campaña no incluida." },
     { "name": "TikTok Ads", "sub": "Aprovecha al máximo la creatividad de los videos.", "price": "A cotizar", "featured": false, "features": ["Análisis inicial", "Segmentación de un mercado objetivo", "Formato de propuesta de campaña", "Lanzamiento y monitoreo de campaña", "Duración máxima de 30 días", "Un Agente asignado", "Reporte de resultados"], "note": "Inversión de campaña no incluida." }
   ],
-  "ctaHeading": "¿Quieres una auditoría gratuita de tus Ads?",
-  "ctaText": "Analizamos tus campañas actuales y te mostramos exactamente dónde estás perdiendo dinero.",
-  "ctaButtonLabel": "Solicitar auditoría gratuita",
-  "ctaButtonIcon": "analytics"
+  "ctaHeading": "Hablemos del crecimiento de tu negocio",
+  "ctaText": "Agenda una llamada gratuita y recibe recomendaciones adaptadas a las necesidades y objetivos de tu empresa.",
+  "ctaButtonLabel": "Agendar asesoría gratuita",
+  "ctaButtonIcon": "calendar_month"
 }

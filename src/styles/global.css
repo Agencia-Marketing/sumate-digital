@@ -77,6 +77,21 @@
     var(--bg-depth);
 }
 
+/* ---- Watermark (isotipo blanco, baja opacidad) ---- */
+.watermark-iso { position: relative; z-index: 0; overflow: hidden; }
+.watermark-iso::after {
+  content: '';
+  position: absolute;
+  bottom: -90px;
+  right: -90px;
+  width: min(48vw, 540px);
+  height: min(48vw, 540px);
+  background: url('/isotipo-positivo.png') no-repeat center / contain;
+  opacity: 0.05;
+  pointer-events: none;
+  z-index: -1;
+}
+
 /* ---- Glass Card ---- */
 .glass {
   background: var(--glass-bg);

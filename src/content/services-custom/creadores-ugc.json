@@ -31,8 +31,8 @@
     ],
     "buttonLabel": "SOLICITAR COTIZACIÓN"
   },
-  "ctaHeading": "¿Te convencemos?",
-  "ctaText": "Agenda una llamada gratuita de 30 minutos y encontramos juntos el creador perfecto para tu marca.",
-  "ctaButtonLabel": "Hablar con un experto",
-  "ctaButtonIcon": "phone_in_talk"
+  "ctaHeading": "Hablemos del crecimiento de tu negocio",
+  "ctaText": "Agenda una llamada gratuita y recibe recomendaciones adaptadas a las necesidades y objetivos de tu empresa.",
+  "ctaButtonLabel": "Agendar asesoría gratuita",
+  "ctaButtonIcon": "calendar_month"
 }

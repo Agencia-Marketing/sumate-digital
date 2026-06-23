@@ -8,7 +8,7 @@ export const prerender = true;
 <Layout title={about.title}>
 
   <!-- HERO -->
-  <section class="mesh-bg relative pt-32 pb-section-py-sm overflow-hidden">
+  <section class="watermark-iso mesh-bg relative pt-28 pb-section-py-sm overflow-hidden">
     <div class="absolute top-1/3 left-1/3 w-80 h-80 rounded-full bg-accent/5 blur-[120px] pointer-events-none"></div>
     <div class="max-w-container-max mx-auto px-gutter">
       <div class="grid md:grid-cols-2 gap-12 items-center">
@@ -28,7 +28,7 @@ export const prerender = true;
             <img
               src={about.heroImage}
               alt={about.heroImageAlt}
-              class="w-full aspect-[4/3] object-cover opacity-85"
+              class="w-full aspect-[4/3] object-cover"
               loading="eager"
             />
           </div>
@@ -48,7 +48,7 @@ export const prerender = true;
               <img
                 src={about.aboutImage}
                 alt={about.aboutImageAlt}
-                class="w-full aspect-square object-cover opacity-80"
+                class="w-full aspect-square object-cover"
               />
             </div>
             <div class="absolute -bottom-4 -right-4 glass rounded-xl px-5 py-3 border border-accent/30">
@@ -65,15 +65,47 @@ export const prerender = true;
             <p class="text-body-md text-text-secondary mb-6 leading-relaxed">{p}</p>
           ))}
           <a href="/contacto" class="btn-cyber-solid magnetic press inline-flex">
-            <span class="icon-wrap">{about.aboutCtaLabel} <span class="material-symbols-outlined text-base">arrow_forward</span></span>
+            <span class="icon-wrap">{about.aboutCtaLabel} <span class="material-symbols-outlined text-base">calendar_month</span></span>
           </a>
         </div>
       </div>
     </div>
   </section>
 
+  <!-- VIDEO DE PRESENTACIÓN -->
+  <section class="watermark-iso mesh-bg py-section-py-sm md:py-section-py-lg">
+    <div class="max-w-container-max mx-auto px-gutter">
+      <div class="text-center mb-10 reveal">
+        <span class="tag-cyber mb-4 inline-flex">{about.videoTag}</span>
+        <h2 class="font-display text-headline-lg-mobile md:text-headline-lg mb-4" set:html={highlightHeading(about.videoHeading, about.videoHighlight)}></h2>
+        <p class="text-body-md text-text-secondary max-w-2xl mx-auto">{about.videoSubtitle}</p>
+      </div>
+      <div class="max-w-3xl mx-auto reveal">
+        <div class="glass card-cyber rounded-2xl overflow-hidden relative aspect-video">
+          {about.video.url
+            ? <iframe
+                src={about.video.url}
+                title={about.videoHeading}
+                class="absolute inset-0 w-full h-full"
+                frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen
+              ></iframe>
+            : <div
+                class="absolute inset-0 flex flex-col items-center justify-center bg-cover bg-center"
+                style={`background-image: linear-gradient(rgba(11,16,38,0.55), rgba(11,16,38,0.55)), url(${about.video.poster});`}
+              >
+                <span class="material-symbols-outlined text-accent text-6xl mb-2">play_circle</span>
+                <p class="text-text-secondary text-sm">Video de presentación próximamente</p>
+              </div>
+          }
+        </div>
+      </div>
+    </div>
+  </section>
+
   <!-- STATS -->
-  <section class="mesh-bg py-section-py-sm md:py-section-py-lg">
+  <section class="bg-bg-depth py-section-py-sm md:py-section-py-lg">
     <div class="max-w-container-max mx-auto px-gutter">
       <div class="text-center mb-14 reveal">
         <span class="tag-cyber mb-4 inline-flex">{about.statsTag}</span>
@@ -93,8 +125,8 @@ export const prerender = true;
     </div>
   </section>
 
-  <!-- TEAM -->
-  <section class="bg-bg-depth py-section-py-sm md:py-section-py-lg">
+  <!-- FUNDADORAS -->
+  <section class="mesh-bg py-section-py-sm md:py-section-py-lg">
     <div class="max-w-container-max mx-auto px-gutter">
       <div class="text-center mb-14 reveal">
         <span class="tag-cyber mb-4 inline-flex">{about.teamTag}</span>
@@ -104,17 +136,17 @@ export const prerender = true;
           <span class="icon-wrap">{about.teamCtaLabel} <span class="material-symbols-outlined text-base">calendar_month</span></span>
         </a>
       </div>
-      <div class="grid sm:grid-cols-2 lg:grid-cols-4 gap-6 stagger-fade">
+      <div class="grid sm:grid-cols-2 gap-6 max-w-2xl mx-auto stagger-fade">
         {about.team.map(m => (
           <div class="glass card-cyber rounded-2xl overflow-hidden group">
             <div class="overflow-hidden">
               <img
                 src={m.img}
                 alt={m.name}
-                class="w-full aspect-square object-cover grayscale group-hover:grayscale-0 transition-all duration-500 group-hover:scale-105"
+                class="w-full aspect-square object-cover transition-all duration-500 group-hover:scale-105"
               />
             </div>
-            <div class="p-5">
+            <div class="p-5 text-center">
               <p class="font-display font-bold text-text-primary">{m.name}</p>
               <p class="text-accent text-sm mt-1">{m.role}</p>
             </div>

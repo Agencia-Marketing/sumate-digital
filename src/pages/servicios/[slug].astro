@@ -14,6 +14,17 @@ export async function getStaticPaths() {
 }
 
 const { s } = Astro.props;
+
+// Rejilla de planes según la cantidad (solo layout; no altera los planes).
+const n = s.plans.length;
+const planGridClass = {
+  1: 'grid-cols-1 max-w-md mx-auto',
+  2: 'grid-cols-1 sm:grid-cols-2 max-w-3xl mx-auto',
+  3: 'grid-cols-1 sm:grid-cols-2 lg:grid-cols-3',
+  4: 'grid-cols-1 sm:grid-cols-2 lg:grid-cols-4',
+  5: 'grid-cols-1 sm:grid-cols-2 lg:grid-cols-6',
+  6: 'grid-cols-1 sm:grid-cols-2 lg:grid-cols-3',
+}[n] ?? 'grid-cols-1 sm:grid-cols-2 lg:grid-cols-3';
 ---
 <Layout title={`${s.title} | Súmate Digital`}>
   <section class="mesh-bg relative pt-32 pb-section-py-sm overflow-hidden">
@@ -60,9 +71,9 @@ const { s } = Astro.props;
         <span class="tag-cyber mb-4 inline-flex">Planes</span>
         <h2 class="font-display text-headline-lg-mobile md:text-headline-lg">Nuestros <span class="gradient-text">planes</span></h2>
       </div>
-      <div class="grid sm:grid-cols-2 lg:grid-cols-4 gap-5 stagger-fade">
-        {s.plans.map(p => (
-          <div class={`glass card-cyber rounded-2xl p-7 flex flex-col ${p.featured ? 'lumen-border scale-105 relative' : ''}`}>
+      <div class={`grid gap-5 stagger-fade ${planGridClass}`}>
+        {s.plans.map((p, i) => (
+          <div class={`glass card-cyber rounded-2xl p-7 flex flex-col ${p.featured ? 'lumen-border scale-105 relative' : ''} ${n === 5 ? 'lg:col-span-2' : ''} ${n === 5 && i === 3 ? 'lg:col-start-2' : ''}`}>
             {p.featured && <span class="tag-cyber mb-4 self-start">Más Popular</span>}
             <p class="font-display font-bold text-xl mb-1">{p.name}</p>
             <p class="text-text-secondary text-sm mb-5">{p.sub}</p>

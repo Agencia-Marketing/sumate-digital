@@ -43,8 +43,8 @@
     ],
     "buttonLabel": "SOLICITAR COTIZACIÓN"
   },
-  "ctaHeading": "¿Te convencemos?",
-  "ctaText": "Agenda una llamada gratuita de 30 minutos y te mostramos un agente de IA en acción.",
-  "ctaButtonLabel": "Ver demo en vivo",
-  "ctaButtonIcon": "play_circle"
+  "ctaHeading": "Hablemos del crecimiento de tu negocio",
+  "ctaText": "Agenda una llamada gratuita y recibe recomendaciones adaptadas a las necesidades y objetivos de tu empresa.",
+  "ctaButtonLabel": "Agendar asesoría gratuita",
+  "ctaButtonIcon": "calendar_month"
 }

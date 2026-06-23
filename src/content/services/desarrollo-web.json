@@ -14,13 +14,13 @@
     { "icon": "conversion_path", "title": "Conversión optimizada", "desc": "Arquitectura de información diseñada para convertir visitantes en clientes." }
   ],
   "plans": [
-    { "name": "Express", "sub": "Landing Page", "price": "$13k–$16.9k", "featured": false, "features": ["1 página optimizada", "Diseño responsive", "Formulario de contacto", "Google Analytics", "SSL incluido"] },
-    { "name": "Corporate", "sub": "Sitio Informativo", "price": "$17.5k–$22.1k", "featured": false, "features": ["Hasta 8 páginas", "CMS integrado", "Blog corporativo", "SEO on-page", "Soporte 3 meses"] },
-    { "name": "Pro Business", "sub": "E-commerce", "price": "$20.8k–$25.3k", "featured": true, "features": ["Tienda online completa", "Pasarela de pago", "Gestión de inventario", "Panel admin", "Soporte 6 meses", "CRM integrado"] },
-    { "name": "Enterprise", "sub": "Solución a medida", "price": "$25.3k–$29.9k", "featured": false, "features": ["Todo de Pro Business", "Integraciones API", "App PWA", "IA de recomendaciones", "Soporte 12 meses", "SLA garantizado"] }
+    { "name": "Landing page", "sub": "Sitio de una sola página con datos de contacto y formulario.", "price": "A cotizar", "featured": false, "features": ["Modalidad económica (Divi) o a la medida", "Entrega económico: 5 a 7 días", "A la medida: maquetación 7 días, desarrollo 6 a 8 días", "Hosting y SSL incluidos", "1 correo corporativo"] },
+    { "name": "Web informativo", "sub": "Hasta 5 páginas: Inicio, Nosotros, Contacto, Servicios, Testimonios.", "price": "A cotizar", "featured": false, "features": ["Modalidad económica (Divi) o a la medida", "Entrega económico: 8 a 12 días", "A la medida: maquetación 15 días, desarrollo 10 a 15 días", "Hosting y SSL incluidos", "2 correos corporativos"] },
+    { "name": "E-commerce WhatsApp", "sub": "Catálogo de productos con pedidos por WhatsApp (sin pasarela).", "price": "A cotizar", "featured": false, "features": ["Modalidad económica (Divi) o a la medida", "Entrega económico: 10 a 15 días", "A la medida: maquetación 15 días, desarrollo 15 a 20 días", "Hosting y SSL incluidos", "2 correos corporativos"] },
+    { "name": "E-commerce", "sub": "Tienda en línea con pasarelas de pago (tarjetas, PayPal y más).", "price": "A cotizar", "featured": false, "features": ["Modalidad económica (Divi) o a la medida", "Entrega económico: 10 a 15 días", "A la medida: maquetación 15 días, desarrollo 15 a 20 días", "Hosting y SSL incluidos", "2 correos corporativos", "2 pasarelas de pago"] }
   ],
-  "ctaHeading": "¿Tienes un proyecto en mente?",
-  "ctaText": "Cuéntanos qué necesitas y te preparamos una propuesta personalizada sin compromiso.",
-  "ctaButtonLabel": "Solicitar propuesta gratuita",
-  "ctaButtonIcon": "phone_in_talk"
+  "ctaHeading": "Hablemos del crecimiento de tu negocio",
+  "ctaText": "Agenda una llamada gratuita y recibe recomendaciones adaptadas a las necesidades y objetivos de tu empresa.",
+  "ctaButtonLabel": "Agendar asesoría gratuita",
+  "ctaButtonIcon": "calendar_month"
 }

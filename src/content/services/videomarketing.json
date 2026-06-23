@@ -19,8 +19,8 @@
     { "name": "Video Completo", "sub": "Edición de video con transiciones más elaboradas, uso de mockups y animaciones. Solicita ejemplos a tu asesor.", "price": "A cotizar", "featured": false, "features": ["60 segundos", "30 segundos", "Menos de 30 segundos"] },
     { "name": "Narración de voz en off", "sub": "Te ayudamos a crear el guion y a elegir la voz adecuada para darle vida a tu proyecto.", "price": "A cotizar", "featured": false, "features": ["60 segundos", "30 segundos", "Menos de 30 segundos"], "note": "No incluida en el servicio de Video marketing; se contrata por separado." }
   ],
-  "ctaHeading": "¿Listo para crear contenido que impacte?",
-  "ctaText": "Hablemos sobre tu visión y te preparamos una propuesta de producción a medida.",
-  "ctaButtonLabel": "Solicitar propuesta",
-  "ctaButtonIcon": "video_call"
+  "ctaHeading": "Hablemos del crecimiento de tu negocio",
+  "ctaText": "Agenda una llamada gratuita y recibe recomendaciones adaptadas a las necesidades y objetivos de tu empresa.",
+  "ctaButtonLabel": "Agendar asesoría gratuita",
+  "ctaButtonIcon": "calendar_month"
 }

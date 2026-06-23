@@ -18,8 +18,8 @@
     { "name": "Menú Digital Pyme", "sub": "Para Restaurantes y Cafés", "price": "A cotizar", "featured": true, "features": ["Hasta 20 platos", "Diseño responsive", "QR personalizado", "Actualización gratuita 6 meses"] },
     { "name": "Menú Digital Empresarial", "sub": "Para Cadenas y Franquicias", "price": "A cotizar", "featured": false, "features": ["Diseño de menú digital", "Descripción y precios", "Fotografías de los platillos", "Diseño de Tent card con el Código QR", "Vinculación de redes sociales"] }
   ],
-  "ctaHeading": "¿Tu marca merece mejor imagen?",
-  "ctaText": "Cuéntanos tu visión y te mostramos cómo transformarla en un sistema visual que impacte.",
-  "ctaButtonLabel": "Solicitar propuesta",
-  "ctaButtonIcon": "phone_in_talk"
+  "ctaHeading": "Hablemos del crecimiento de tu negocio",
+  "ctaText": "Agenda una llamada gratuita y recibe recomendaciones adaptadas a las necesidades y objetivos de tu empresa.",
+  "ctaButtonLabel": "Agendar asesoría gratuita",
+  "ctaButtonIcon": "calendar_month"
 }

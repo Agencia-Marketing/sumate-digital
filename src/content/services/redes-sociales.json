@@ -20,8 +20,8 @@
     { "name": "Plan Profesional", "sub": "4 redes sociales", "price": "A cotizar", "featured": false, "features": ["4 redes sociales", "15 diseños por red (hasta 6 videos)", "Community manager 9–5 (GMT-6)", "Trafficker · 2 propuestas de campaña", "Diseñador gráfico dedicado", "Reporte mensual de crecimiento"] },
     { "name": "Plan Omnipresente", "sub": "6 redes sociales", "price": "A cotizar", "featured": false, "features": ["6 redes sociales", "15 diseños por red (hasta 6 videos)", "Community manager 9–5 (GMT-6)", "Trafficker · 2 propuestas de campaña", "Diseñador gráfico dedicado", "Reporte mensual de crecimiento"] }
   ],
-  "ctaHeading": "¿Tus redes necesitan más impacto?",
-  "ctaText": "Diseñamos una estrategia personalizada para convertir tu comunidad en clientes reales.",
-  "ctaButtonLabel": "Solicitar estrategia gratuita",
-  "ctaButtonIcon": "phone_in_talk"
+  "ctaHeading": "Hablemos del crecimiento de tu negocio",
+  "ctaText": "Agenda una llamada gratuita y recibe recomendaciones adaptadas a las necesidades y objetivos de tu empresa.",
+  "ctaButtonLabel": "Agendar asesoría gratuita",
+  "ctaButtonIcon": "calendar_month"
 }
