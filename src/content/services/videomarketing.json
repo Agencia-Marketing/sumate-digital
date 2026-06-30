@@ -4,20 +4,20 @@
   "icon": "movie",
   "heroHeading": "Vídeos que amplifican tu mensaje y disparan el engagement",
   "heroHighlight": "amplifican",
-  "heroSub": "Producimos piezas audiovisuales estratégicas que conectan emocionalmente con tu audiencia y aceleran el proceso de compra.",
+  "heroSub": "En Súmate Digital creamos videos que conectan con tu audiencia y la acercan a la compra, para que tu mensaje llegue más lejos y tu marca se quede en la memoria de tus clientes.",
   "heroCtaLabel": "Solicitar servicio",
   "image": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=600&q=80",
   "imageAlt": "Videomarketing Súmate Digital",
   "features": [
-    { "icon": "videocam", "title": "Producción profesional", "desc": "Rodaje, dirección y edición de alto nivel para piezas que comunican tu mensaje con impacto real." },
-    { "icon": "trending_up", "title": "Vídeos que convierten", "desc": "Guiones estratégicos orientados a ventas: testimoniales, explicativos, ads y contenido para redes." },
-    { "icon": "subtitles", "title": "Subtítulos y adaptación", "desc": "Versiones optimizadas para cada plataforma: 9:16, 1:1, 16:9 con subtítulos y colores de marca." }
+    { "icon": "videocam", "title": "Te ves profesional en cámara", "desc": "Rodaje, dirección y edición de alto nivel para que tu negocio proyecte calidad y comunique con impacto real." },
+    { "icon": "trending_up", "title": "Video pensado para vender", "desc": "Guiones estratégicos orientados a resultados: testimoniales, explicativos, ads y contenido que acerca a tu audiencia a comprar." },
+    { "icon": "subtitles", "title": "Listo para cada plataforma", "desc": "Versiones optimizadas en 9:16, 1:1 y 16:9, con subtítulos y los colores de tu marca para rendir al máximo en cada red." }
   ],
   "plans": [
-    { "name": "Video Básico", "sub": "Edición de video con transiciones simples y textos 2D, música. Solicita ejemplos a tu asesor.", "price": "A cotizar", "featured": false, "features": ["60 segundos", "30 segundos", "Menos de 30 segundos"] },
-    { "name": "Video Inter", "sub": "Edición de video con transiciones más elaboradas y uso de mockups. Solicita ejemplos a tu asesor.", "price": "A cotizar", "featured": false, "features": ["60 segundos", "30 segundos", "Menos de 30 segundos"] },
-    { "name": "Video Completo", "sub": "Edición de video con transiciones más elaboradas, uso de mockups y animaciones. Solicita ejemplos a tu asesor.", "price": "A cotizar", "featured": false, "features": ["60 segundos", "30 segundos", "Menos de 30 segundos"] },
-    { "name": "Narración de voz en off", "sub": "Te ayudamos a crear el guion y a elegir la voz adecuada para darle vida a tu proyecto.", "price": "A cotizar", "featured": false, "features": ["60 segundos", "30 segundos", "Menos de 30 segundos"], "note": "No incluida en el servicio de Video marketing; se contrata por separado." }
+    { "name": "Video Básico", "sub": "Comunica tu mensaje de forma clara y atractiva sin complicarte.", "price": "A cotizar", "featured": false, "features": ["Ideal para tu historia completa: 60 segundos", "Versión ágil y directa: 30 segundos", "Máximo impacto en pocos segundos: menos de 30 segundos"] },
+    { "name": "Video Inter", "sub": "Destaca con piezas más elaboradas que captan la atención.", "price": "A cotizar", "featured": false, "features": ["Ideal para tu historia completa: 60 segundos", "Versión ágil y directa: 30 segundos", "Máximo impacto en pocos segundos: menos de 30 segundos"] },
+    { "name": "Video Completo", "sub": "Sorprende a tu audiencia con animaciones de nivel profesional.", "price": "A cotizar", "featured": false, "features": ["Ideal para tu historia completa: 60 segundos", "Versión ágil y directa: 30 segundos", "Máximo impacto en pocos segundos: menos de 30 segundos"] },
+    { "name": "Narración de voz en off", "sub": "Dale una voz profesional a tu proyecto y conecta aún más.", "price": "A cotizar", "featured": false, "features": ["Ideal para tu historia completa: 60 segundos", "Versión ágil y directa: 30 segundos", "Máximo impacto en pocos segundos: menos de 30 segundos"], "note": "No incluida en el servicio de Video marketing; se contrata por separado." }
   ],
   "ctaHeading": "Hablemos del crecimiento de tu negocio",
   "ctaText": "Agenda una llamada gratuita y recibe recomendaciones adaptadas a las necesidades y objetivos de tu empresa.",

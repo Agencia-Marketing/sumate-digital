@@ -4,20 +4,20 @@
   "icon": "code",
   "heroHeading": "Web de alto rendimiento que convierte desde el primer clic",
   "heroHighlight": "convierte",
-  "heroSub": "Construimos tu plataforma digital con velocidad, conversión y escalabilidad como principios de diseño, no como extras.",
+  "heroSub": "En Súmate Digital construimos la plataforma digital que tu negocio necesita para verse profesional, cargar al instante y convertir más visitas en clientes desde el primer día.",
   "heroCtaLabel": "Solicitar servicio",
   "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&q=80",
   "imageAlt": "Desarrollo Web Súmate Digital",
   "features": [
-    { "icon": "devices", "title": "Diseño adaptativo", "desc": "Experiencias perfectas en cualquier dispositivo, desde móvil hasta escritorio." },
-    { "icon": "speed", "title": "Velocidad extrema", "desc": "Optimización técnica avanzada para tiempos de carga bajo 1 segundo." },
-    { "icon": "conversion_path", "title": "Conversión optimizada", "desc": "Arquitectura de información diseñada para convertir visitantes en clientes." }
+    { "icon": "devices", "title": "Llega a todos tus clientes", "desc": "Tu web se ve y funciona perfecta en cualquier dispositivo, así nadie se queda fuera sin importar cómo te visite." },
+    { "icon": "speed", "title": "No pierdas visitas por la espera", "desc": "Optimización técnica avanzada para que tu sitio cargue en menos de un segundo y retenga a cada visitante." },
+    { "icon": "conversion_path", "title": "Convierte visitas en clientes", "desc": "Diseñamos cada página para guiar al usuario hacia la acción y transformar el tráfico en ventas reales." }
   ],
   "plans": [
-    { "name": "Landing page", "sub": "Sitio de una sola página con datos de contacto y formulario.", "price": "A cotizar", "featured": false, "features": ["Modalidad económica (Divi) o a la medida", "Entrega económico: 5 a 7 días", "A la medida: maquetación 7 días, desarrollo 6 a 8 días", "Hosting y SSL incluidos", "1 correo corporativo"] },
-    { "name": "Web informativo", "sub": "Hasta 5 páginas: Inicio, Nosotros, Contacto, Servicios, Testimonios.", "price": "A cotizar", "featured": false, "features": ["Modalidad económica (Divi) o a la medida", "Entrega económico: 8 a 12 días", "A la medida: maquetación 15 días, desarrollo 10 a 15 días", "Hosting y SSL incluidos", "2 correos corporativos"] },
-    { "name": "E-commerce WhatsApp", "sub": "Catálogo de productos con pedidos por WhatsApp (sin pasarela).", "price": "A cotizar", "featured": false, "features": ["Modalidad económica (Divi) o a la medida", "Entrega económico: 10 a 15 días", "A la medida: maquetación 15 días, desarrollo 15 a 20 días", "Hosting y SSL incluidos", "2 correos corporativos"] },
-    { "name": "E-commerce", "sub": "Tienda en línea con pasarelas de pago (tarjetas, PayPal y más).", "price": "A cotizar", "featured": false, "features": ["Modalidad económica (Divi) o a la medida", "Entrega económico: 10 a 15 días", "A la medida: maquetación 15 días, desarrollo 15 a 20 días", "Hosting y SSL incluidos", "2 correos corporativos", "2 pasarelas de pago"] }
+    { "name": "Landing page", "sub": "Capta clientes con una página enfocada en convertir.", "price": "A cotizar", "featured": false, "features": ["Elige la modalidad que se ajuste a ti: económica (Divi) o a la medida", "Sal en línea rápido: entrega económica en 5 a 7 días", "A la medida con acabado premium: maquetación 7 días y desarrollo 6 a 8 días", "Despreocúpate de lo técnico con hosting y SSL incluidos", "Proyecta seriedad con 1 correo a nombre de tu negocio"] },
+    { "name": "Web informativo", "sub": "Presenta tu negocio completo y genera confianza.", "price": "A cotizar", "featured": false, "features": ["Elige la modalidad que se ajuste a ti: económica (Divi) o a la medida", "Sal en línea rápido: entrega económica en 8 a 12 días", "A la medida con acabado premium: maquetación 15 días y desarrollo 10 a 15 días", "Despreocúpate de lo técnico con hosting y SSL incluidos", "Proyecta seriedad con 2 correos a nombre de tu negocio"] },
+    { "name": "E-commerce WhatsApp", "sub": "Recibe pedidos por WhatsApp sin complicaciones.", "price": "A cotizar", "featured": false, "features": ["Elige la modalidad que se ajuste a ti: económica (Divi) o a la medida", "Sal en línea rápido: entrega económica en 10 a 15 días", "A la medida con acabado premium: maquetación 15 días y desarrollo 15 a 20 días", "Despreocúpate de lo técnico con hosting y SSL incluidos", "Proyecta seriedad con 2 correos a nombre de tu negocio"] },
+    { "name": "E-commerce", "sub": "Vende en automático con tu tienda en línea.", "price": "A cotizar", "featured": false, "features": ["Elige la modalidad que se ajuste a ti: económica (Divi) o a la medida", "Sal en línea rápido: entrega económica en 10 a 15 días", "A la medida con acabado premium: maquetación 15 días y desarrollo 15 a 20 días", "Despreocúpate de lo técnico con hosting y SSL incluidos", "Proyecta seriedad con 2 correos a nombre de tu negocio", "Cobra fácil con 2 pasarelas de pago integradas"] }
   ],
   "ctaHeading": "Hablemos del crecimiento de tu negocio",
   "ctaText": "Agenda una llamada gratuita y recibe recomendaciones adaptadas a las necesidades y objetivos de tu empresa.",

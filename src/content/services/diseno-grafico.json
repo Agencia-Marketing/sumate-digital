@@ -4,19 +4,19 @@
   "icon": "palette",
   "heroHeading": "Identidades visuales que enamoran y convierten",
   "heroHighlight": "enamoran",
-  "heroSub": "Creamos sistemas visuales premium que comunican el alma de tu marca y generan reconocimiento inmediato en cualquier punto de contacto.",
+  "heroSub": "En Súmate Digital damos a tu marca una imagen que enamora y se recuerda, para que generes confianza y reconocimiento en cada punto de contacto con tus clientes.",
   "heroCtaLabel": "Solicitar servicio",
   "image": "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=600&q=80",
   "imageAlt": "Diseño Gráfico Súmate Digital",
   "features": [
-    { "icon": "brand_awareness", "title": "Identidad de marca", "desc": "Logotipo, paleta, tipografías y sistema visual coherente que comunica autoridad desde el primer vistazo." },
-    { "icon": "image", "title": "Materiales digitales", "desc": "Posts, stories, banners, presentaciones y todo el ecosistema visual que tu marca necesita en digital." },
-    { "icon": "print", "title": "Diseño impreso", "desc": "Tarjetas, folletos, catálogos y señalética con la misma calidad premium de tu identidad digital." }
+    { "icon": "brand_awareness", "title": "Una marca que inspira autoridad", "desc": "Logotipo, paleta, tipografías y sistema visual coherente que hacen que tu negocio se vea profesional desde el primer vistazo." },
+    { "icon": "image", "title": "Listo para vender en digital", "desc": "Posts, stories, banners y presentaciones que mantienen tu marca impecable y consistente en cada red social." },
+    { "icon": "print", "title": "Presencia impecable también en físico", "desc": "Tarjetas, folletos, catálogos y señalética con la misma calidad premium, para causar buena impresión en cualquier lugar." }
   ],
   "plans": [
-    { "name": "Naming & Logo", "sub": "Identidad de Marca", "price": "A cotizar", "featured": false, "features": ["Propuesta de nombre", "2 conceptos de logo", "Manual de identidad básico", "Formatos PNG/SVG/PDF"] },
-    { "name": "Menú Digital Pyme", "sub": "Para Restaurantes y Cafés", "price": "A cotizar", "featured": true, "features": ["Hasta 20 platos", "Diseño responsive", "QR personalizado", "Actualización gratuita 6 meses"] },
-    { "name": "Menú Digital Empresarial", "sub": "Para Cadenas y Franquicias", "price": "A cotizar", "featured": false, "features": ["Diseño de menú digital", "Descripción y precios", "Fotografías de los platillos", "Diseño de Tent card con el Código QR", "Vinculación de redes sociales"] }
+    { "name": "Naming & Logo", "sub": "Arranca con una identidad que te distingue de la competencia.", "price": "A cotizar", "featured": false, "features": ["Encuentra el nombre ideal para tu marca con nuestra propuesta", "Elige con confianza entre 2 conceptos de logo", "Mantén tu marca coherente con un manual de identidad básico", "Úsalo donde quieras con formatos PNG/SVG/PDF listos para todo"] },
+    { "name": "Menú Digital Pyme", "sub": "Haz que tus clientes pidan más fácil en tu restaurante o café.", "price": "A cotizar", "featured": true, "features": ["Muestra tu oferta completa con hasta 20 platos", "Una experiencia perfecta en cualquier celular con diseño responsive", "Acceso inmediato a tu carta con un QR personalizado", "Mantén tu menú al día con actualización gratuita por 6 meses"] },
+    { "name": "Menú Digital Empresarial", "sub": "La solución completa para cadenas y franquicias.", "price": "A cotizar", "featured": false, "features": ["Una carta digital profesional para toda tu marca", "Facilita la decisión de compra con descripción y precios claros", "Antoja a tus clientes con fotografías de los platillos", "Acceso fácil en mesa con diseño de tent card y código QR", "Convierte comensales en seguidores con vinculación de redes sociales"] }
   ],
   "ctaHeading": "Hablemos del crecimiento de tu negocio",
   "ctaText": "Agenda una llamada gratuita y recibe recomendaciones adaptadas a las necesidades y objetivos de tu empresa.",

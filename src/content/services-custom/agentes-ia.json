@@ -3,13 +3,13 @@
   "heroTagIcon": "smart_toy",
   "heroHeading": "Escala sin límites con inteligencia artificial autónoma",
   "heroHighlight": "inteligencia artificial",
-  "heroSub": "Escala tu operación sin escalar tu equipo: agentes de IA que cualifican, venden y atienden de forma autónoma 24/7.",
+  "heroSub": "En Súmate Digital hacemos crecer tu operación sin que crezca tu nómina: agentes de IA que cualifican, venden y atienden por ti de forma autónoma, las 24 horas.",
   "image": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=600&q=80",
   "imageAlt": "Agentes de IA Súmate Digital",
   "features": [
-    { "icon": "schedule", "title": "Disponibilidad 24/7", "desc": "Tu agente de IA nunca duerme — atiende consultas, cualifica leads y cierra citas a cualquier hora." },
-    { "icon": "hub", "title": "Cualificación Masiva", "desc": "Evalúa miles de prospectos simultáneamente con criterios personalizados para tu negocio." },
-    { "icon": "integration_instructions", "title": "Integración CRM", "desc": "Conecta directamente con GoHighLevel, HubSpot o tu CRM actual sin fricciones técnicas." }
+    { "icon": "schedule", "title": "Nunca pierdas una venta", "desc": "Tu agente de IA atiende, cualifica y agenda citas a cualquier hora, incluso cuando tú y tu equipo descansan." },
+    { "icon": "hub", "title": "Atiende a todos a la vez", "desc": "Responde a miles de prospectos al mismo tiempo con criterios pensados para tu negocio, sin hacer esperar a nadie." },
+    { "icon": "integration_instructions", "title": "Encaja con tus herramientas", "desc": "Se conecta con GoHighLevel, HubSpot o tu CRM actual sin fricciones, para que todo siga funcionando en orden." }
   ],
   "comparisonHeading": "Empleado tradicional vs Agente de IA",
   "comparisonHighlight": "vs",
@@ -34,14 +34,14 @@
     "price": "$15k",
     "note": "Implementación completa",
     "features": [
-      "Configuración y entrenamiento del agente",
-      "Integración con tu CRM",
-      "Conexión con bases de datos",
-      "Cualificación automática de leads",
-      "Panel de control y reportes",
-      "Soporte técnico 3 meses"
+      "Un agente entrenado a la medida de tu negocio",
+      "Conectado a tu CRM para no perder ningún dato",
+      "Responde con información real desde tus bases de datos",
+      "Recibe solo prospectos listos con cualificación automática",
+      "Controla todo desde un panel con reportes claros",
+      "Tranquilidad con soporte técnico durante 3 meses"
     ],
-    "buttonLabel": "SOLICITAR COTIZACIÓN"
+    "buttonLabel": "Hablemos de tu proyecto"
   },
   "ctaHeading": "Hablemos del crecimiento de tu negocio",
   "ctaText": "Agenda una llamada gratuita y recibe recomendaciones adaptadas a las necesidades y objetivos de tu empresa.",

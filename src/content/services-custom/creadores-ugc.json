@@ -3,13 +3,13 @@
   "heroTagIcon": "campaign",
   "heroHeading": "Contenido auténtico que triplica tus conversiones",
   "heroHighlight": "triplica",
-  "heroSub": "El contenido generado por personas reales genera 3x más conversiones. Conectamos tu marca con los creadores perfectos para tu audiencia.",
+  "heroSub": "En Súmate Digital conectamos tu marca con creadores reales para que generes hasta 3x más conversiones con contenido en el que tu audiencia confía.",
   "image": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600&q=80",
   "imageAlt": "Creadores UGC Súmate Digital",
   "features": [
-    { "icon": "verified_user", "title": "Confianza Auténtica", "desc": "El 94% de los consumidores confía más en UGC que en publicidad tradicional. Dale a tu marca esa credibilidad." },
-    { "icon": "bar_chart", "title": "CTR Aumentado", "desc": "El contenido UGC genera hasta 3x más clics en anuncios pagados que el contenido de marca tradicional." },
-    { "icon": "groups", "title": "Creadores Verificados", "desc": "Red de creadores seleccionados por nicho, audiencia y tasa de engagement para tu industria." }
+    { "icon": "verified_user", "title": "Gana la confianza de tus clientes", "desc": "El 94% de los consumidores confía más en el contenido de personas reales que en la publicidad tradicional. Dale a tu marca esa credibilidad." },
+    { "icon": "bar_chart", "title": "Más clics por tu inversión", "desc": "El contenido UGC genera hasta 3x más clics en anuncios pagados, para que cada peso de pauta rinda mucho más." },
+    { "icon": "groups", "title": "El creador ideal para tu marca", "desc": "Seleccionamos creadores por nicho, audiencia y engagement, para que tu mensaje llegue a las personas correctas." }
   ],
   "stats": [
     { "value": "94%", "label": "de confianza del consumidor en UGC vs publicidad tradicional" },
@@ -22,14 +22,14 @@
     "price": "$3k",
     "note": "Por vídeo creado y entregado",
     "features": [
-      "Selección de creador ideal",
-      "Guión y brief de contenido",
-      "1 vídeo UGC editado (30-60s)",
-      "Derechos de uso publicitario",
-      "Variantes para A/B testing",
-      "Estrategia de distribución"
+      "Llega a tu público con el creador ideal seleccionado para ti",
+      "Un mensaje que vende con guión y brief de contenido",
+      "Listo para publicar: 1 vídeo UGC editado (30-60s)",
+      "Úsalo en tu pauta con derechos de uso publicitario",
+      "Descubre qué funciona mejor con variantes para A/B testing",
+      "Saca el máximo provecho con una estrategia de distribución"
     ],
-    "buttonLabel": "SOLICITAR COTIZACIÓN"
+    "buttonLabel": "Hablemos de tu proyecto"
   },
   "ctaHeading": "Hablemos del crecimiento de tu negocio",
   "ctaText": "Agenda una llamada gratuita y recibe recomendaciones adaptadas a las necesidades y objetivos de tu empresa.",

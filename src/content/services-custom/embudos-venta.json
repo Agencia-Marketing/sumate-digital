@@ -3,13 +3,13 @@
   "heroTagIcon": "filter_alt",
   "heroHeading": "Sistemas de conversión que trabajan solos mientras tú descansas",
   "heroHighlight": "trabajan solos",
-  "heroSub": "Diseña el viaje perfecto de tu cliente: desde el primer contacto hasta la venta, todo automatizado y optimizado para convertir.",
+  "heroSub": "En Súmate Digital construimos un sistema de ventas que trabaja por ti: desde el primer contacto hasta la compra, todo automatizado para que ganes más clientes sin estar pendiente de cada paso.",
   "image": "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=600&q=80",
   "imageAlt": "Embudos de Venta Súmate Digital",
   "features": [
-    { "icon": "web", "title": "Landing Diseñada", "desc": "Página de aterrizaje de alta conversión con copywriting persuasivo y diseño orientado a la acción." },
-    { "icon": "automation", "title": "Automatización Completa", "desc": "Secuencias de email, WhatsApp y SMS que nutren al prospecto automáticamente hasta la compra." },
-    { "icon": "calendar_month", "title": "Seguimiento Inteligente", "desc": "Calendario integrado, recordatorios automáticos y pipeline de ventas en tiempo real." }
+    { "icon": "web", "title": "Convierte más visitas", "desc": "Una página de aterrizaje con copywriting persuasivo y diseño orientado a la acción, pensada para transformar visitas en clientes." },
+    { "icon": "automation", "title": "Vende en piloto automático", "desc": "Secuencias de email, WhatsApp y SMS que acompañan a cada prospecto hasta la compra, sin que tengas que escribir manualmente." },
+    { "icon": "calendar_month", "title": "No se te escapa ningún cliente", "desc": "Calendario integrado, recordatorios automáticos y pipeline en tiempo real para dar seguimiento a cada oportunidad." }
   ],
   "plan": {
     "badge": "Más Popular",
@@ -17,16 +17,16 @@
     "price": "$3.9k",
     "note": "Implementación completa del sistema",
     "features": [
-      "Diseño landing page de alta conversión",
-      "Configuración GoHighLevel completa",
-      "Integración calendario de citas",
-      "Secuencias de email automatizadas",
-      "Integración formularios y CRM",
-      "Integración Meta Ads y Google Ads",
-      "Dashboard de métricas en tiempo real",
-      "Soporte técnico 60 días"
+      "Convierte más con una landing page de alta conversión",
+      "Todo listo y funcionando con configuración GoHighLevel completa",
+      "Agenda citas sin fricción con calendario integrado",
+      "Da seguimiento solo con secuencias de email automatizadas",
+      "Captura cada dato con integración de formularios y CRM",
+      "Atrae tráfico calificado con integración Meta Ads y Google Ads",
+      "Toma decisiones con un dashboard de métricas en tiempo real",
+      "Empieza tranquilo con soporte técnico durante 60 días"
     ],
-    "buttonLabel": "SOLICITAR COTIZACIÓN"
+    "buttonLabel": "Hablemos de tu proyecto"
   },
   "ctaHeading": "Hablemos del crecimiento de tu negocio",
   "ctaText": "Agenda una llamada gratuita y recibe recomendaciones adaptadas a las necesidades y objetivos de tu empresa.",

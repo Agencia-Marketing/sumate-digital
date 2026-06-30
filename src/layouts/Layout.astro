@@ -63,7 +63,7 @@ const rootStyle = ':root{' + Object.entries(cssVars).map(([k, v]) => `${k}:${v}`
         <a href="/" class="flex items-center group">
           {logo.image
             ? <span class="inline-flex items-center bg-white rounded-lg px-2.5 py-1.5 shadow-sm">
-                <img src={logo.image} alt={logo.alt} class="h-7 md:h-8 w-auto" />
+                <img src={logo.image} alt={logo.alt} class="h-9 md:h-10 w-auto" />
               </span>
             : <span class="inline-flex w-8 h-8 rounded-lg bg-gradient-to-br from-accent to-accent-2 items-center justify-center">
                 <span class="material-symbols-outlined text-bg-void text-base" style="font-variation-settings:'wght' 700;">{logo.icon}</span>
@@ -116,7 +116,7 @@ const rootStyle = ':root{' + Object.entries(cssVars).map(([k, v]) => `${k}:${v}`
           <a href="/" class="inline-flex items-center mb-4">
             {logo.image
               ? <span class="inline-flex items-center bg-white rounded-lg px-2.5 py-1.5 shadow-sm">
-                  <img src={logo.image} alt={logo.alt} class="h-8 w-auto" />
+                  <img src={logo.image} alt={logo.alt} class="h-10 w-auto" />
                 </span>
               : <span class="inline-flex w-8 h-8 rounded-lg bg-gradient-to-br from-accent to-accent-2 items-center justify-center">
                   <span class="material-symbols-outlined text-bg-void text-base" style="font-variation-settings:'wght' 700;">{logo.icon}</span>
